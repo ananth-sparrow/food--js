@@ -1,1 +1,1 @@
-# Bakery Website using JavaScrip
+# Bakery Website using JavaScript
